@@ -1,0 +1,5 @@
+{
+  "name": "Courier CRM",
+  "description": "A comprehensive CRM system for a courier service, featuring separate interfaces for dispatchers and couriers to manage orders, drivers, and finances.",
+  "requestFramePermissions": []
+}
